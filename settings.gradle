@@ -1,0 +1,2 @@
+include ':app', ':protobuf'
+rootProject.name = "My Application"
